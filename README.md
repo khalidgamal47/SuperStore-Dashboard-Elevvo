@@ -41,7 +41,7 @@ This project is part of my internship journey, where I worked on building an **i
 
 
 ## 📸 Preview
-<img width="870" height="486" alt="image" src="https://github.com/user-attachments/assets/fdb8f8c7-37a2-46a4-8359-77d8b619aabb" />
+<img width="2767" height="1600" alt="Superstore_Elevvo_Dashboard-1" src="https://github.com/user-attachments/assets/977bc1b8-3241-46d6-ba89-c21671eb7f43" />
 
 
 ---
